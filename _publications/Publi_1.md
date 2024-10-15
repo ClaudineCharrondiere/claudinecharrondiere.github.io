@@ -19,7 +19,6 @@ bibtex: "@article{dufour2019moisture,  <br>
   year={2019}, <br>
   publisher={Copernicus GmbH} <br>
 }"
-code: ""
 pdf: "https://tc.copernicus.org/articles/13/413/2019/tc-13-413-2019.pdf"
 project_page: "https://claudinecharrondiere.github.io/projects/Publi_1"
 paper_url: "https://tc.copernicus.org/articles/13/413/2019/"

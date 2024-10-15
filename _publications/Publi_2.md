@@ -18,9 +18,7 @@ bibtex: "@article{charrondiere2020buoyancy,  <br>
   pages={97--122}, <br>
   year={2020}, <br>
   publisher={Springer} <br>
-}
-"
-code: ""
+}"
 pdf: "https://hal.science/hal-03124731/document"
 project_page: "https://claudinecharrondiere.github.io/projects/Publi_2"
 paper_url: "https://link.springer.com/article/10.1007/s10546-020-00549-2"
