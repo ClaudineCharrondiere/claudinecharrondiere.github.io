@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Grégoire Petit"
+excerpt: "Claudine Charrondière"
 author_profile: true
 redirect_from: 
   - /about/

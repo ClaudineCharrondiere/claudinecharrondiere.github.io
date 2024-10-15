@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Grégoire Petit"
+title                    : "Claudine Charrondière"
 title_separator          : "-"
-name                     : &name "Grégoire Petit"
+name                     : &name "Claudine Charrondière"
 description              : &description "As a student with a passion for theoretical science, I chose to pursue demanding studies which combine Computer science, Mathematics and Signal Processing, before specializing in Machine Learning: Class-Incremental Learning without Memory."
 url                      : https://claudinecharrondiere.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : ""
   avatar           : "profile.png"
-  bio              : "PhD Continual Learning, Dual Master's Degree in Computer Science and Engineering."
+  bio              : "Environmental Fluid Dynamics Researcher."
   location         : "Europe"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=oKWj7yQAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=dYquXRYAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : gregoire-petit
+  linkedin         : claudine-charrondiere
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
