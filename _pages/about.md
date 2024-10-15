@@ -14,7 +14,6 @@ With a doctorate and research experience in environmental fluid mechanics, I spe
 
 Driven by a passion for applied research, I have contributed to international projects such as the ERC UNICORN and TEAMx initiatives. My academic journey has been recognized with awards such as the Jean Valembois Prize for Fluid Mechanics, and I have published papers in leading scientific journals.
 Currently, I am thrilled to expand my expertise into numerical modeling and industrial applications, where I aim to bridge the gap between academic research and practical, real-world solutions. My goal is to contribute to solving complex environmental challenges through innovative approaches in fluid dynamics.
-======
 
 Publications
 ======
