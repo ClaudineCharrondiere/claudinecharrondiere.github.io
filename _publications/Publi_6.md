@@ -15,8 +15,7 @@ bibtex: "@article{charrondiere2024spectral, <br>
   journal={Quarterly Journal of the Royal Meteorological Society}, <br>
   year={2024}, <br>
   publisher={Wiley Online Library} <br>
-}
-"
+}"
 pdf: "https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/qj.4811"
 project_page: "https://claudinecharrondiere.github.io/projects/Publi_6"
 paper_url: "https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4811"
