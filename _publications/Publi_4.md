@@ -8,6 +8,7 @@ date: 04-25-2022
 venue: 'Journal of Fluid Mechanics'
 authors: '<a href="https://claudinecharrondiere.github.io">Claudine Charrondière</a>, <a href="https://scholar.google.fr/citations?user=wZwD8wwAAAAJ&hl=fr">Christophe Brun</a> , <a href="https://scholar.google.fr/citations?user=JJ99He8AAAAJ&hl=fr">Emil J Hopfinger</a> , <a href="https://scholar.google.com/citations?user=RQYKv8IAAAAJ&hl=fr">Jean-Martial Cohard</a> , <a href="https://www.researchgate.net/scientific-contributions/Jean-Emmanuel-Sicart-2143985673">Jean-Emmanuel Sicart</a>'
 conference_short: 'Journal of Fluid Mechanics'
+abstract: "The recent field measurements of katabatic winds on steep alpine slopes provide a unique database for theoretical analysis of the mean flow development and the determination of mixing properties. "
 bibtex: "@article{charrondiere2022mean,  <br>
   title={Mean flow structure of katabatic winds and turbulent mixing properties}, <br>
   author={Charrondière, Claudine and Brun, Christophe and Hopfinger, Emil J and Cohard, Jean-Martial and Sicart, Jean-Emmanuel}, <br>
