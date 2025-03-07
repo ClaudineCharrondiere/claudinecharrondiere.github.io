@@ -16,3 +16,7 @@
     padding : 5px;
 }
 
+.container {
+    max-width: 90vw; /* Ajuste selon ton écran */
+    margin: auto; /* Centre le contenu */
+}
