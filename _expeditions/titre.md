@@ -23,6 +23,20 @@ Deployed sensors : 11 anemometers, 6 thermocouples, a 3D pitot 3D for near-surfa
 
 For details, you can refer to [🔍 this paper](https://hal.science/hal-03350043/file/Charrondi%C3%A8re2022.pdf)  
 
+# 🏔️ Hintereisferner Experiment II (HEFEX II) 
+
+📍*Hintereisferner glacier, Austria*  
+📅 August-September 2023  
+👤 7 countries in the field  
+
+As part of the international [TEAMx project](https://www.teamx-programme.org/) (Multi-scale transport and exchange processes in the atmosphere over mountains - programme and experiment)
+
+19 meteorological stations (11 with high-frequency measurements and 21 sonic anemometers), thermal camera, radiosonde, LiDAR, drones
+
+More details to come (paper under review)
+
+
+
 
 
 
