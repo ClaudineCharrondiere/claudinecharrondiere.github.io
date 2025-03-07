@@ -2,6 +2,7 @@
 title: ""
 collection: expeditions
 permalink: /expeditions/
+layout: default
 ---
 # 🌬️ Katabatic winds over a steep slope
 
