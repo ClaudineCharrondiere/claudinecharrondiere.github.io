@@ -8,7 +8,7 @@ permalink: /publications/
 ### 2. Buoyancy Effects in the Turbulence Kinetic Energy Budget and Reynolds Stress Budget for a Katabatic Jet over a Steep Alpine Slope
 *Claudine Charrondière, Christophe Brun, Jean-Emmanuel Sicart, Jean-Martial Cohard, Romain Biron and Sébastien Blein*  
 <ins>Boundary-Layer Meteorology</ins>, vol. 177 (1), pp. 97-122, **2020**  
-[🔍 pdf](https://link.springer.com/article/10.1007/s10546-020-00549-2) | <a href="#" onclick="showBibTeX(event, 'bib2')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract(event, 'abs2')">📄 Abstract</a>
+[🔍 pdf](https://hal.science/hal-03124731/document) | <a href="#" onclick="showBibTeX(event, 'bib2')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract(event, 'abs2')">📄 Abstract</a>
 
 <div id="bib2" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
   <strong>BibTeX Citation:</strong>
