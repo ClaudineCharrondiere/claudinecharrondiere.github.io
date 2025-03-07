@@ -1,7 +1,7 @@
 ---
 title: ""
-collection: field_experiments
-permalink: /field_experiments/
+collection: expeditions
+permalink: /expeditions/
 ---
 
 # 🌬️ Katabatic winds over a steep slope
