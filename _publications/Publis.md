@@ -99,13 +99,6 @@ permalink: /publications/
     }
   </style>
   
-  
-  
-  
-  ---
-title: ""
-collection: publications
-permalink: /publications/
 ---
 # Peer-reviewed publications
 
