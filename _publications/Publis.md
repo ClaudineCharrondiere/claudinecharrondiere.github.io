@@ -187,10 +187,12 @@ permalink: /publications/
 
 <script>
 function showBibTeX(id) {
+  event.preventDefault();
   document.getElementById(id).style.display = 'block';
 }
 
 function showAbstract(id) {
+  event.preventDefault();
   document.getElementById(id).style.display = 'block';
 }
 
