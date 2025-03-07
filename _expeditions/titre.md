@@ -13,7 +13,7 @@ layout: default
 📅 August-September 2023  
 👤 7 countries in the field  
 
-As part of the international [TEAMx project](https://www.teamx-programme.org/) (Multi-scale transport and exchange processes in the atmosphere over mountains - programme and experiment), we deployed 19 meteorological stations (11 with high-frequency measurements and 21 sonic anemometers) along the glacier, thermal camera, radiosonde, LiDAR, drones
+As part of the international [TEAMx project](https://www.teamx-programme.org/) (Multi-scale transport and exchange processes in the atmosphere over mountains - programme and experiment), we deployed 19 meteorological stations (11 with high-frequency measurements and 21 sonic anemometers) along the glacier, as well as a thermal camera, radiosondes, LiDAR, drones, ...
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="width: 350px; height: 500px; margin: 10px; overflow: hidden;">
@@ -27,6 +27,7 @@ As part of the international [TEAMx project](https://www.teamx-programme.org/) (
   </div>
   <div style="width: 350px; height: 500px; margin: 10px; overflow: hidden;">
     <img src="/images/HEFEXII/Ballon.JPEG" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
+  </div>
   </div>
 
 
