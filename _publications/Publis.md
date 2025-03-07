@@ -11,16 +11,18 @@ permalink: /publications/
   🔍 [pdf](https://tc.copernicus.org/articles/13/413/2019/) | 🗨️ <a href="#" class="abstract-link" onclick="showAbstract()">Cite (BibTex)</a>
 
   <div id="abstractPopup" style="display:none; position:fixed; top:50%; left:50%; transform:translate(-50%, -50%); background:white; padding:20px; border:1px solid black; box-shadow:0px 4px 6px rgba(0,0,0,0.1); width:auto; max-width:90%; min-width:300px;">
-    <p>@article{dufour2019moisture,  
-  title={Moisture transport in observations and reanalyses as a proxy for snow accumulation in East Antarctica},  
-  author={Dufour, Ambroise and Charrondi{\`e}re, Claudine and Zolina, Olga},  
-  journal={The Cryosphere},  
-  volume={13},  
-  number={2},  
-  pages={413--425},  
-  year={2019},  
-  publisher={Copernicus GmbH}  
-}</p>
+    <pre id="bibtexContent">
+@article{dufour2019moisture,
+  title={Moisture transport in observations and reanalyses as a proxy for snow accumulation in East Antarctica},
+  author={Dufour, Ambroise and Charrondi{\`e}re, Claudine and Zolina, Olga},
+  journal={The Cryosphere},
+  volume={13},
+  number={2},
+  pages={413--425},
+  year={2019},
+  publisher={Copernicus GmbH}
+}
+  </pre>
     <button onclick="closeAbstract()">Close</button>
   </div>
   <script>
