@@ -3,6 +3,9 @@ title: ""
 collection: publications
 permalink: /publications/
 ---
+
+Below are listed my publications, from the latest to the oldest, as well as datasets and scientific communications. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=dYquXRYAAAAJ).
+
 # In review
 
 ### The second HinterEisFerner EXperiment (HEFEX II): Observations of the micrometeorology and atmosphere-surface interaction over a valley glacier
@@ -170,7 +173,7 @@ Submitted to <ins>Bulletin of the American Meteorological Society</ins>
 
 # Dataset
 
-### 1. Data from the field experiment on katabatic winds on a steep slope (Grand Colon, French Alps)
+### Data from the field experiment on katabatic winds on a steep slope (Grand Colon, French Alps)
 *Christophe Brun, Claudine Charrondière, Jean-Martial Cohard, Jean-Emmanuel Sicart, Catherine Coulaud, Romain Biron*  
 <ins>Zenodo</ins>, **2019**  
 [🔍 Access to the dataset and DOI](https://doi.org/10.5281/zenodo.6546702)
