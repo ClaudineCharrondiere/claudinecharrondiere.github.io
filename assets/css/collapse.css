@@ -15,7 +15,7 @@
     display: none;
     padding : 5px;
     
-body {
-    background-color: #ad3a3c; /* Remplace par la couleur que tu veux */
+.site {
+    background-color: #ad3a3c !important;
 }
 
