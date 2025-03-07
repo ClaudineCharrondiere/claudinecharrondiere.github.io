@@ -19,10 +19,10 @@ As part of the international [TEAMx project](https://www.teamx-programme.org/) (
   <div style="width: 350px; height: 500px; margin: 10px; overflow: hidden;">
     <img src="/images/HEFEXII/Grand_mat.jpg" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
-  <div style="width: 350px; height: 500px; margin: 10px; overflow: hidden;">
+  <div style="width: 400px; height: 500px; margin: 10px; overflow: hidden;">
     <img src="/images/HEFEXII/Glacier.JPG" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
-  <div style="width: 350px; height: 500px; margin: 10px; overflow: hidden;">
+  <div style="width: 450px; height: 500px; margin: 10px; overflow: hidden;">
     <img src="/images/HEFEXII/LIDAR.JPG" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
   <div style="width: 350px; height: 500px; margin: 10px; overflow: hidden;">
@@ -31,9 +31,6 @@ As part of the international [TEAMx project](https://www.teamx-programme.org/) (
 
 
 More details to come (paper under review)
-
----
-
 
 
 # 🌬️ Katabatic winds over a steep slope
@@ -56,7 +53,7 @@ Main achievements : ...
 
 For details, you can refer to [this paper](https://hal.science/hal-03350043/file/Charrondi%C3%A8re2022.pdf)  
 
-
+---
 
 
 
