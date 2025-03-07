@@ -3,12 +3,120 @@ title: ""
 collection: publications
 permalink: /publications/
 ---
+# In revision process
+
+### Spectral scaling of unstably-stratiﬁed atmospheric ﬂows: turbulence anisotropy and the low frequency spread
+*Claudine Charrondière, Christophe Brun, Jean-Martial Cohard, Jean-Emmanuel Sicart, Martin Obligado, Catherine Coulaud, Romain Biron
+<ins>Boundary-Layer Meteorology</ins>, vol. 182 (1), pp. 29-54, **2022**  
+[🔍 pdf](https://hal.science/hal-03350043/file/Charrondi%C3%A8re2022.pdf) | <a href="#" onclick="showBibTeX(event, 'bib2')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract(event, 'abs2')">📄 Abstract</a>
+
+<div id="bib7" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
+  <strong>BibTeX Citation:</strong>
+  <pre>@article{charrondiere2022katabatic,
+  title={Katabatic winds over steep slopes: Overview of a field experiment designed to investigate slope-normal velocity and near-surface turbulence},
+  author={Charrondi{\`e}re, Claudine and Brun, Christophe and Cohard, Jean-Martial and Sicart, Jean-Emmanuel and Obligado, Martin and Biron, Romain and Coulaud, Catherine and Guyard, H{\'e}l{\`e}ne},
+  journal={Boundary-Layer Meteorology},
+  volume={182},
+  number={1},
+  pages={29--54},
+  year={2022},
+  publisher={Springer}
+}</pre>
+  <button onclick="closePopup('bib7')">Close</button>
+</div>
+
+<div id="abs7" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
+  <strong>Abstract:</strong>
+  <p></p>
+  <button onclick="closePopup('abs7')">Close</button>
+</div>
+
 # Peer-reviewed publications
+
+### 6. Spectral scaling of unstably-stratiﬁed atmospheric ﬂows: turbulence anisotropy and the low frequency spread
+*Claudine Charrondière, Ivana Stiperski
+<ins>Quarterly Journal of the Royal Meteorological Society</ins>, vol. 150 (764), pp. 4196-4216, **2024**  
+[🔍 pdf](https://rmets.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/qj.4811) | <a href="#" onclick="showBibTeX(event, 'bib6')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract(event, 'abs6')">📄 Abstract</a>
+
+<div id="bib6" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
+  <strong>BibTeX Citation:</strong>
+  <pre>@article{charrondiere2024spectral,
+  title={Spectral scaling of unstably stratified atmospheric flows: Turbulence anisotropy and the low-frequency spread},
+  author={Charrondi{\`e}re, Claudine and Stiperski, Ivana},
+  journal={Quarterly Journal of the Royal Meteorological Society},
+  volume={150},
+  number={764},
+  pages={4196--4216},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+</pre>
+  <button onclick="closePopup('bib6')">Close</button>
+</div>
+
+<div id="abs6" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
+  <strong>Abstract:</strong>
+  <p>The recent field measurements of katabatic winds on steep alpine slopes provide a unique database for theoretical analysis of the mean flow development and the determination of mixing properties. The theory is based on the depth-integrated momentum and heat equations and demonstrates an increase in mean velocity \(U\) with downstream distance \(x\) according to \(x^n\) \((n \leq 1/2)\). An equation for the mean wind velocity is established, expressing its dependency on the buoyancy flux, related to the heat flux to the ground, entrainment, and bottom friction. No ambient stratification, ambient wind, and constant ground surface temperature lead to \(U \sim x^{1/2}\), while constant heat flux to the ground leads to \(U \sim x^{1/3}\) and requires that the reduced gravity decreases as \(x^{-1/3}\). Stable ambient stratification \(N\) causes, in addition to small-amplitude mean flow oscillations, a decrease in reduced gravity with \(x\), in which case the assumption of constant surface heat flux along \(x\) is only an approximation. The turbulent fluxes are a function of the gradient Richardson number \(Ri\), with the ratio of turbulent diffusivity to viscosity \(K_h / K_m\) changing from nearly 1.4 to approximately 0.5 at \(Ri \approx 0.5\). A new mixing efficiency is introduced that includes turbulence kinetic energy production or consumption by along-slope turbulent buoyancy flux. It increases with \(Ri\) up to 0.25 at \(Ri \approx 0.5\) and then remains nearly constant. The measurements allowed us to determine the bottom drag coefficients and interfacial entrainment, with the ground surface heat flux being determined from the mean buoyancy flux.</p>
+  <button onclick="closePopup('abs6')">Close</button>
+</div>
+
+### 5. Evidence of strong wave turbulence and of Bolgiano temperature spectra in katabatic winds on steep slopes
+*Claudine Charrondière, Emil J Hopfinger, Christophe Brun, Jean-Martial Cohard, Jean-Emmanuel Sicart
+<ins>Physics of Fluids</ins>, vol. 36 (2), pp. 29-54, **2024**  
+[🔍 pdf](https://hal.science/hal-03350043/file/Charrondi%C3%A8re2022.pdf) | <a href="#" onclick="showBibTeX(event, 'bib5')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract(event, 'abs5')">📄 Abstract</a>
+
+<div id="bib5" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
+  <strong>BibTeX Citation:</strong>
+  <pre>@article{charrondiere2024evidence,
+  title={Evidence of strong wave turbulence and of Bolgiano temperature spectra in katabatic winds on steep slopes},
+  author={Charrondi{\`e}re, Claudine and Hopfinger, Emil J and Brun, Christophe and Cohard, J-M and Sicart, J-E},
+  journal={Physics of Fluids},
+  volume={36},
+  number={2},
+  year={2024},
+  publisher={AIP Publishing}
+}
+</pre>
+  <button onclick="closePopup('bib5')">Close</button>
+</div>
+
+<div id="abs5" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
+  <strong>Abstract:</strong>
+  <p>The katabatic winds on steep slopes investigated in the present study reveal a novel spectral behavior, observed in the outer part of the jet. At low wavenumbers, the one-dimensional (1D) velocity spectra show evidence of a \( k_x^{-1} \) range for the three components of the velocity vector: \( E_u(k_x) \), \( E_v(k_x) \), \( E_w(k_x) \) [as well as for the 1D temperature spectrum \( E_\theta(k_x) \propto k_x^{-1} \)]. This suggests the existence of strong wave turbulence. A necessary condition for strong wave turbulence to be manifest is that the flow direction wavenumber, \( k_\varphi \), extends to much lower values than the slope normal one, \( k_z \). This is satisfied in the present field experiment where wave energy is injected at wavenumber \( k_x = k_y = (N_a \sin \alpha) / \bar{u}_j \), while \( k_z \propto 1 / \Delta z \), with \( N_a \) the ambient stratification, \( \alpha \) the slope angle, \( \bar{u}_j \) the maximum wind velocity, and \( \Delta z \) the shear layer thickness of the jet. In the inertial range, the velocity spectra exhibit a power law \( k_x^{-5/3} \) over two decades, whereas the temperature-buoyancy spectra show evidence of a \( -7/5 \) slope in the buoyancy sub-range, followed by a \( -5/3 \) slope. The change in spectral slopes occurs at the Bolgiano scale \( L_B \) that is close to the Dougherty–Ozmidov scale \( L_OZ \). The high Reynolds number based on the Taylor micro-scale, \( Re_\lambda \sim 10^3 \), allows clear identification of the spectral laws.</p>
+  <button onclick="closePopup('abs5')">Close</button>
+</div>
+
+### 4. Mean flow structure of katabatic winds and turbulent mixing properties
+*Claudine Charrondière, Christophe Brun, Emil J Hopfinger, Jean-Martial Cohard, Jean-Emmanuel Sicart
+<ins>Journal of Fluid Mechanics</ins>, vol. 941, A11, **2022**  
+[🔍 pdf](https://hal.science/hal-03350043/file/Charrondi%C3%A8re2022.pdf) | <a href="#" onclick="showBibTeX(event, 'bib4')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract(event, 'abs4')">📄 Abstract</a>
+
+<div id="bib4" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
+  <strong>BibTeX Citation:</strong>
+  <pre>@article{charrondiere2022mean,
+  title={Mean flow structure of katabatic winds and turbulent mixing properties},
+  author={Charrondi{\`e}re, Claudine and Brun, Christophe and Hopfinger, Emil J and Cohard, Jean-Martial and Sicart, Jean-Emmanuel},
+  journal={Journal of Fluid Mechanics},
+  volume={941},
+  pages={A11},
+  year={2022},
+  publisher={Cambridge University Press}
+}
+}</pre>
+  <button onclick="closePopup('bib4')">Close</button>
+</div>
+
+<div id="abs4" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
+  <strong>Abstract:</strong>
+  <p></p>
+  <button onclick="closePopup('abs4')">Close</button>
+</div>
+
 
 ### 3. Katabatic winds over steep slopes: Overview of a field experiment designed to investigate slope-normal velocity and near-surface turbulence
 *Claudine Charrondière, Christophe Brun, Jean-Martial Cohard, Jean-Emmanuel Sicart, Martin Obligado, Catherine Coulaud, Romain Biron
 <ins>Boundary-Layer Meteorology</ins>, vol. 182 (1), pp. 29-54, **2022**  
-[🔍 pdf](https://hal.science/hal-03350043/file/Charrondi%C3%A8re2022.pdf) | <a href="#" onclick="showBibTeX(event, 'bib2')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract(event, 'abs2')">📄 Abstract</a>
+[🔍 pdf](https://hal.science/hal-03350043/file/Charrondi%C3%A8re2022.pdf) | <a href="#" onclick="showBibTeX(event, 'bib3')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract(event, 'abs3')">📄 Abstract</a>
 
 <div id="bib3" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
   <strong>BibTeX Citation:</strong>
