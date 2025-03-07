@@ -34,7 +34,7 @@ permalink: /publications/
 ### 6. Moisture transport in observations and reanalyses as a proxy for snow accumulation in East Antarctica  
 *Ambroise Dufour, Claudine Charrondière, Olga Zolina*  
 <ins>The Cryosphere</ins>, vol. 13 (2), pp. 413-425, **2019**  
-[🔍 pdf](https://tc.copernicus.org/articles/13/413/2019/) | <a href="#" onclick="showBibTeX('bib1')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract('abs1')">📄 Abstract</a>
+[🔍 pdf](https://tc.copernicus.org/articles/13/413/2019/) | <a href="#" onclick="showBibTeX(event, 'bib1')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract(event, 'abs1')">📄 Abstract</a>
 
 <div id="bib6" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
   <strong>BibTeX Citation:</strong>
