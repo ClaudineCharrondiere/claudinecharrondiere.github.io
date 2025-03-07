@@ -6,7 +6,7 @@ permalink: /publications/
 # In review
 
 ### The second HinterEisFerner EXperiment (HEFEX II): Observations of the micrometeorology and atmosphere-surface interaction over a valley glacier
-*Lindsey Nicholson; Ivana Stiperski; Roland Albers; Balthazar Allegri; Hélène Barral; Benjamin Brock; Romain Biron; Claudine Charrondiere; Catherine Coulaud; Alexander Fischer; Alexander Giorgi; Alexander Groos; Michael Haugeneder; Rebecca Mott; Giordano Nitti; Rainer Prinz; Dylan Reynolds; Niklas Richter; Tobias Sauter; Marie Schroeder; Thomas Shaw; Jean-Emmanuel Sicart; Annelies Voordendag; Carlos Wydra*  
+*Lindsey Nicholson, Ivana Stiperski, Roland Albers, Balthazar Allegri, Hélène Barral, Benjamin Brock, Romain Biron, Claudine Charrondiere, Catherine Coulaud, Alexander Fischer, Alexander Giorgi, Alexander Groos, Michael Haugeneder, Rebecca Mott, Giordano Nitti, Rainer Prinz, Dylan Reynolds, Niklas Richter, Tobias Sauter, Marie Schroeder, Thomas Shaw, Jean-Emmanuel Sicart, Annelies Voordendag, Carlos Wydra*  
 Submitted to <ins>Bulletin of the American Meteorological Society</ins>
 
 # Peer-reviewed publications
@@ -173,7 +173,13 @@ Submitted to <ins>Bulletin of the American Meteorological Society</ins>
 ### 1. Data from the field experiment on katabatic winds on a steep slope (Grand Colon, French Alps)
 *Christophe Brun, Claudine Charrondière, Jean-Martial Cohard, Jean-Emmanuel Sicart, Catherine Coulaud, Romain Biron*  
 <ins>Zenodo</ins>, **2019**  
-[🔍 DOI](10.5281/zenodo.6546701)
+[🔍 Access to the dataset](https://zenodo.org/records/6546702)| <a href="#" onclick="showBibTeX(event, 'bib_data')">🗨️ DOI for citations</a>
+
+<div id="bib_data" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
+  <strong>BibTeX Citation:</strong>
+  <pre>10.5281/zenodo.6546702</pre>
+  <button onclick="closePopup('bib_data')">Close</button>
+</div>
 
 # Communications 
 
