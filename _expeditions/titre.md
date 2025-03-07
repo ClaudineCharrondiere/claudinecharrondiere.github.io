@@ -33,22 +33,17 @@ For details, you can refer to [this paper](https://hal.science/hal-03350043/file
 As part of the international [TEAMx project](https://www.teamx-programme.org/) (Multi-scale transport and exchange processes in the atmosphere over mountains - programme and experiment), we deployed 19 meteorological stations (11 with high-frequency measurements and 21 sonic anemometers) along the glacier, thermal camera, radiosonde, LiDAR, drones
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="width: 350px; height: 350px; margin: 10px; overflow: hidden;">
+  <div style="width: 350px; height: 400px; margin: 10px; overflow: hidden;">
     <img src="/images/HEFEXII/Grand_mat.jpg" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
-  <div style="width: 350px; height: 350px; margin: 10px; overflow: hidden;">
-    <img src="/images/HEFEXII/Glacier.jpg" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
+  <div style="width: 350px; height: 400px; margin: 10px; overflow: hidden;">
+    <img src="/images/HEFEXII/Glacier.JPG" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
-  <div style="width: 350px; height: 350px; margin: 10px; overflow: hidden;">
-    <img src="/images/HEFEXII/Petit_mat_moraine.HEIC" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
-  <div style="width: 350px; height: 350px; margin: 10px; overflow: hidden;">
+  <div style="width: 350px; height: 400px; margin: 10px; overflow: hidden;">
     <img src="/images/HEFEXII/LIDAR.JPG" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
-  <div style="width: 350px; height: 350px; margin: 10px; overflow: hidden;">
-    <img src="/images/HEFEXII/Petit_mat_neige.HEIC" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
-  </div>
-  <div style="width: 350px; height: 350px; margin: 10px; overflow: hidden;">
+  <div style="width: 350px; height: 400px; margin: 10px; overflow: hidden;">
     <img src="/images/HEFEXII/Ballon.JPEG" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
 </div>
