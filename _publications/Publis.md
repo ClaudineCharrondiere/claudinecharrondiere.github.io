@@ -173,9 +173,17 @@ Submitted to <ins>Bulletin of the American Meteorological Society</ins>
 ### 1. Data from the field experiment on katabatic winds on a steep slope (Grand Colon, French Alps)
 *Christophe Brun, Claudine Charrondière, Jean-Martial Cohard, Jean-Emmanuel Sicart, Catherine Coulaud, Romain Biron*  
 <ins>Zenodo</ins>, **2019**  
-[🔍 Access to the dataset](https://zenodo.org/records/6546702)| [🗨️ DOI](https://doi.org/10.5281/zenodo.6546702)
+[🔍 Access to the dataset and DOI](https://doi.org/10.5281/zenodo.6546702)
 
-# Communications 
+# Scientific communications at national and international conferences
+
+### Spectral analysis of unstable flows: understanding the low frequency spread of Kaimal scaling
+*Claudine Charrondière, Ivana Stiperski*  
+<ins>9. Österreichischer MeteorologInnentag</ins>, Innsbruck (Austria), **2023**  
+[🔍 Abstract](https://www.uibk.ac.at/congress/meteorologinnentag2023/abstracts/meteorologinnentag2023_o13_charrondiere.pdf)
+
+
+
 
 
 <script>
