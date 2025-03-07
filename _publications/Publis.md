@@ -5,15 +5,10 @@ permalink: /publications/
 ---
 # Peer-reviewed publications
 
-- Moisture transport in observations and reanalyses as a proxy for snow accumulation in East Antarctica  
-Ambroise Dufour, Claudine Charrondière, Olga Zolina  
-*The Cryosphere*, 13 (2), 413-425  
-
-
 - **Moisture transport in observations and reanalyses as a proxy for snow accumulation in East Antarctica**  
 *Ambroise Dufour, Claudine Charrondière, Olga Zolina*  
-*The Cryosphere*, **vol. 13, n°2**, pp. 413-425, **2019**  
-🔗 [DOI](https://doi.org/example) | 📜 [BibTeX](/bibtex/dufour2019.bib)
+<ins>Texte souligné</ins>, vol. 13, n°2, pp. 413-425, 2019  
+🔍 [pdf](https://tc.copernicus.org/articles/13/413/2019/) | 🗨️ [Cite (BibTeX)](https://scholar.googleusercontent.com/scholar.bib?q=info:myiu1Lh0FSkJ:scholar.google.com/&output=citation&scisdr=ClFxXvhXEN2j_nMBxGY:AFWwaeYAAAAAZ8sH3GZfmn0kHYAyn0LNmEOO-WI&scisig=AFWwaeYAAAAAZ8sH3K9lMPuKb7IkFRcwCnGOeH0&scisf=4&ct=citation&cd=-1&hl=fr)
 
 
 
