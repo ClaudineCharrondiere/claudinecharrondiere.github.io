@@ -155,54 +155,48 @@ permalink: /publications/
     }
   </style>
   
-# Peer-reviewed publications
 
-- Moisture transport in observations and reanalyses as a proxy for snow accumulation in East Antarctica  
-  *Ambroise Dufour, Claudine Charrondière, Olga Zolina*  
-  <ins>The Cryosphere</ins>, vol. 13 (2), pp. 413-425, **2019**  
-  
-  <!-- Liens -->
-🔍 [pdf](https://tc.copernicus.org/articles/13/413/2019/) | 🗨️ <a href="#" class="abstract-link" onclick="showBibtex()">Cite (BibTeX)</a> | 📄 <a href="#" class="abstract-link" onclick="showAbstract()">Abstract</a>
 
-<!-- Fenêtre pop-up pour BibTeX -->
-<div id="bibtexPopup" style="display:none; position:fixed; top:50%; left:50%; transform:translate(-50%, -50%); background:white; padding:20px; border:1px solid black; box-shadow:0px 4px 6px rgba(0,0,0,0.1); width:auto; max-width:90%; min-width:300px;">
-  <h2>Cite this paper (BibTeX)</h2>
-  <pre id="bibtexContent">
-@article{dufour2019moisture,
-  title={Moisture transport in observations and reanalyses as a proxy for snow accumulation in East Antarctica},
-  author={Dufour, Ambroise and Charrondi{\`e}re, Claudine and Zolina, Olga},
-  journal={The Cryosphere},
-  volume={13},
-  number={2},
-  pages={413--425},
-  year={2019},
-  publisher={Copernicus GmbH}
-}
-  </pre>
-  <button onclick="closePopups()">Close</button>
+
+### Publications
+
+#### Moisture transport in observations and reanalyses as a proxy for snow accumulation in East Antarctica  
+*Ambroise Dufour, Claudine Charrondière, Olga Zolina*  
+_The Cryosphere_, vol. 13 (2), pp. 413-425, 2019  
+[🔍 pdf](https://example.com/your-pdf-link) | <a href="#" onclick="showBibTeX('bib1')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract('abs1')">📄 Abstract</a>
+
+<div id="bib1" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
+  <strong>BibTeX Citation:</strong>
+  <pre>@article{Dufour2019,
+  author = {Dufour, Ambroise and Charrondière, Claudine and Zolina, Olga},
+  title = {Moisture transport in observations and reanalyses as a proxy for snow accumulation in East Antarctica},
+  journal = {The Cryosphere},
+  volume = {13},
+  number = {2},
+  pages = {413--425},
+  year = {2019}
+  }</pre>
+  <button onclick="closePopup('bib1')">Close</button>
 </div>
 
-<!-- Fenêtre pop-up pour l'Abstract -->
-<div id="abstractPopup" style="display:none; position:fixed; top:50%; left:50%; transform:translate(-50%, -50%); background:white; padding:20px; border:1px solid black; box-shadow:0px 4px 6px rgba(0,0,0,0.1); width:auto; max-width:90%; min-width:300px;">
-  <p>Atmospheric moisture convergence on ice sheets provides an estimate of snow accumulation, which is critical to quantifying sea-level changes...</p>
-  <button onclick="closePopups()">Close</button>
+<div id="abs1" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
+  <strong>Abstract:</strong>
+  <p>This study investigates moisture transport in East Antarctica using observational data and reanalyses to assess its role as a proxy for snow accumulation...</p>
+  <button onclick="closePopup('abs1')">Close</button>
 </div>
 
 <script>
-  function showAbstract() {
-    document.getElementById("abstractPopup").style.display = "block";
-    document.getElementById("bibtexPopup").style.display = "none";  // Ferme l'autre popup
-  }
+function showBibTeX(id) {
+  document.getElementById(id).style.display = 'block';
+}
 
-  function showBibtex() {
-    document.getElementById("bibtexPopup").style.display = "block";
-    document.getElementById("abstractPopup").style.display = "none";  // Ferme l'autre popup
-  }
+function showAbstract(id) {
+  document.getElementById(id).style.display = 'block';
+}
 
-  function closePopups() {
-    document.getElementById("abstractPopup").style.display = "none";
-    document.getElementById("bibtexPopup").style.display = "none";
-  }
+function closePopup(id) {
+  document.getElementById(id).style.display = 'none';
+}
 </script>
 
 
