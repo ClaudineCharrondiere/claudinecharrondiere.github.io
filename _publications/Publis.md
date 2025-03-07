@@ -187,6 +187,20 @@ Submitted to <ins>Bulletin of the American Meteorological Society</ins>
 <ins>36th International Conference on Alpine Meteorology</ins>, St. Gallen (Switzerland), **2023**  
 [🔍 Recorded presentation ](https://iacweb.ethz.ch/events/icam2023/rec/O2.3)
 
+### Spectral scaling in unstably stratified atmospheric flows: understanding the low frequency spread of Kaimal’s model - velocity spectra and momentum cospectrum
+*Claudine Charrondière, Ivana Stiperski*  
+<ins>24th Symposium on Boundary Layers and Turbulence</ins>, Denver, CO (United States), **2023**  
+[🔍 Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/416640)
+
+### Experimental study of katabatic jets over steep slopes: buoyancy effect and turbulence properties
+*Claudine Charrondière, Christophe Brun, Martin Obligado, Jean-Emmanuel Sicart, Jean-Martial Cohard*  
+<ins>European Geosciences Union General Assembly,</ins>, Vienna (Austria), **2020**  
+[🔍 Abstract](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-8674.html)
+
+### Experimental investigation of buoyancy effect on turbulence for a katabatic jet above a steep alpine slope
+*Claudine Charrondière, Christophe Brun, Jean-Emmanuel Sicart, Jean-Martial Cohard*  
+<ins>35th International Conference on Alpine Meteorology,</ins>, Riva del Garda (Italy), **2019**  
+
 # Other scientific communications
 
 ### Beyond Monin-Obukhov Similarity Theory and the Implications for Turbulence over Complex Terrain
