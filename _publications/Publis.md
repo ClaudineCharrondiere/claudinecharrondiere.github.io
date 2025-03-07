@@ -3,7 +3,7 @@ title: ""
 collection: publications
 permalink: /publications/
 ---
-# In revision process
+# In review
 
 ### The second HinterEisFerner EXperiment (HEFEX II): Observations of the micrometeorology and atmosphere-surface interaction over a valley glacier
 *Lindsey Nicholson; Ivana Stiperski; Roland Albers; Balthazar Allegri; Hélène Barral; Benjamin Brock; Romain Biron; Claudine Charrondiere; Catherine Coulaud; Alexander Fischer; Alexander Giorgi; Alexander Groos; Michael Haugeneder; Rebecca Mott; Giordano Nitti; Rainer Prinz; Dylan Reynolds; Niklas Richter; Tobias Sauter; Marie Schroeder; Thomas Shaw; Jean-Emmanuel Sicart; Annelies Voordendag; Carlos Wydra*  
@@ -167,6 +167,15 @@ Submitted to <ins>Bulletin of the American Meteorological Society</ins>
   <p>Atmospheric moisture convergence on ice sheets provides an estimate of snow accumulation, which is critical to quantifying sea-level changes. In the case of East Antarctica, we computed moisture transport from 1980 to 2016 in five reanalyses and in radiosonde observations. Moisture convergence in reanalyses is more consistent than net precipitation but still ranges from 72 to 96 mm&middot;yr&minus;1 in the four most recent reanalyses, ERA-Interim, NCEP CFSR, JRA 55 and MERRA 2. The representation of long-term variability in reanalyses is also inconsistent, which justified resorting to observations. Moisture fluxes are measured on a daily basis via radiosondes launched from a network of stations surrounding East Antarctica. Observations agree with reanalyses on the major role of extreme advection events and transient eddy fluxes. Although assimilated, the observations reveal processes that reanalyses cannot model, some due to a lack of horizontal and vertical resolution, especially the oldest, NCEP DOE R2. Additionally, the observational time series are not affected by new satellite data unlike the reanalyses. We formed pan-continental estimates of convergence by aggregating anomalies from all available stations. We found statistically significant trends neither in moisture convergence nor in precipitable water.</p>
   <button onclick="closePopup('abs1')">Close</button>
 </div>
+
+# Dataset
+
+### 1. Data from the field experiment on katabatic winds on a steep slope (Grand Colon, French Alps)
+*Christophe Brun, Claudine Charrondière, Jean-Martial Cohard, Jean-Emmanuel Sicart, Catherine Coulaud, Romain Biron*  
+<ins>Zenodo</ins>, **2019**  
+[🔍 DOI](10.5281/zenodo.6546701)
+
+# Communications 
 
 
 <script>
