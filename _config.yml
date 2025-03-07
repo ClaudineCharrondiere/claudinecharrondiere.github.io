@@ -218,6 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      title: ""  # Titre vide
+      date: ""    # Date vide
+      location: ""  # Location vide
+      venue: ""  # Venue vide
   # _publications
   - scope:
       path: ""
