@@ -56,21 +56,25 @@ permalink: /publications/
   <button onclick="closePopup('abs1')">Close</button>
 </div>
 
+
 <script>
-function showBibTeX(id) {
+function showBibTeX(event, id) {
+  event = event || window.event;
   event.preventDefault();
-  document.getElementById(id).style.display = 'block';
+  document.querySelector(`#${id}`).style.display = 'block';
 }
 
-function showAbstract(id) {
+function showAbstract(event, id) {
+  event = event || window.event;
   event.preventDefault();
-  document.getElementById(id).style.display = 'block';
+  document.querySelector(`#${id}`).style.display = 'block';
 }
 
 function closePopup(id) {
-  document.getElementById(id).style.display = 'none';
+  document.querySelector(`#${id}`).style.display = 'none';
 }
 </script>
+
 
 
 
