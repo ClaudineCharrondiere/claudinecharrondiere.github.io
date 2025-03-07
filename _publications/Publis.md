@@ -5,36 +5,14 @@ permalink: /publications/
 ---
 # In revision process
 
-### Spectral scaling of unstably-stratiﬁed atmospheric ﬂows: turbulence anisotropy and the low frequency spread
-*Claudine Charrondière, Christophe Brun, Jean-Martial Cohard, Jean-Emmanuel Sicart, Martin Obligado, Catherine Coulaud, Romain Biron
-<ins>Boundary-Layer Meteorology</ins>, vol. 182 (1), pp. 29-54, **2022**  
-[🔍 pdf](https://hal.science/hal-03350043/file/Charrondi%C3%A8re2022.pdf) | <a href="#" onclick="showBibTeX(event, 'bib2')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract(event, 'abs2')">📄 Abstract</a>
-
-<div id="bib7" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
-  <strong>BibTeX Citation:</strong>
-  <pre>@article{charrondiere2022katabatic,
-  title={Katabatic winds over steep slopes: Overview of a field experiment designed to investigate slope-normal velocity and near-surface turbulence},
-  author={Charrondi{\`e}re, Claudine and Brun, Christophe and Cohard, Jean-Martial and Sicart, Jean-Emmanuel and Obligado, Martin and Biron, Romain and Coulaud, Catherine and Guyard, H{\'e}l{\`e}ne},
-  journal={Boundary-Layer Meteorology},
-  volume={182},
-  number={1},
-  pages={29--54},
-  year={2022},
-  publisher={Springer}
-}</pre>
-  <button onclick="closePopup('bib7')">Close</button>
-</div>
-
-<div id="abs7" style="display:none; position:fixed; top:20%; left:30%; width:40%; padding:20px; background:white; border:1px solid black; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
-  <strong>Abstract:</strong>
-  <p></p>
-  <button onclick="closePopup('abs7')">Close</button>
-</div>
+### The second HinterEisFerner EXperiment (HEFEX II): Observations of the micrometeorology and atmosphere-surface interaction over a valley glacier
+*Lindsey Nicholson; Ivana Stiperski; Roland Albers; Balthazar Allegri; Hélène Barral; Benjamin Brock; Romain Biron; Claudine Charrondiere; Catherine Coulaud; Alexander Fischer; Alexander Giorgi; Alexander Groos; Michael Haugeneder; Rebecca Mott; Giordano Nitti; Rainer Prinz; Dylan Reynolds; Niklas Richter; Tobias Sauter; Marie Schroeder; Thomas Shaw; Jean-Emmanuel Sicart; Annelies Voordendag; Carlos Wydra*  
+Submitted to <ins>Bulletin of the American Meteorological Society</ins>
 
 # Peer-reviewed publications
 
 ### 6. Spectral scaling of unstably-stratiﬁed atmospheric ﬂows: turbulence anisotropy and the low frequency spread
-*Claudine Charrondière, Ivana Stiperski
+*Claudine Charrondière, Ivana Stiperski*  
 <ins>Quarterly Journal of the Royal Meteorological Society</ins>, vol. 150 (764), pp. 4196-4216, **2024**  
 [🔍 pdf](https://rmets.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/qj.4811) | <a href="#" onclick="showBibTeX(event, 'bib6')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract(event, 'abs6')">📄 Abstract</a>
 
@@ -61,7 +39,7 @@ permalink: /publications/
 </div>
 
 ### 5. Evidence of strong wave turbulence and of Bolgiano temperature spectra in katabatic winds on steep slopes
-*Claudine Charrondière, Emil J Hopfinger, Christophe Brun, Jean-Martial Cohard, Jean-Emmanuel Sicart
+*Claudine Charrondière, Emil J Hopfinger, Christophe Brun, Jean-Martial Cohard, Jean-Emmanuel Sicart*  
 <ins>Physics of Fluids</ins>, vol. 36 (2), pp. 29-54, **2024**  
 [🔍 pdf](https://hal.science/hal-03350043/file/Charrondi%C3%A8re2022.pdf) | <a href="#" onclick="showBibTeX(event, 'bib5')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract(event, 'abs5')">📄 Abstract</a>
 
@@ -87,7 +65,7 @@ permalink: /publications/
 </div>
 
 ### 4. Mean flow structure of katabatic winds and turbulent mixing properties
-*Claudine Charrondière, Christophe Brun, Emil J Hopfinger, Jean-Martial Cohard, Jean-Emmanuel Sicart
+*Claudine Charrondière, Christophe Brun, Emil J Hopfinger, Jean-Martial Cohard, Jean-Emmanuel Sicart*  
 <ins>Journal of Fluid Mechanics</ins>, vol. 941, A11, **2022**  
 [🔍 pdf](https://hal.science/hal-03350043/file/Charrondi%C3%A8re2022.pdf) | <a href="#" onclick="showBibTeX(event, 'bib4')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract(event, 'abs4')">📄 Abstract</a>
 
@@ -114,7 +92,7 @@ permalink: /publications/
 
 
 ### 3. Katabatic winds over steep slopes: Overview of a field experiment designed to investigate slope-normal velocity and near-surface turbulence
-*Claudine Charrondière, Christophe Brun, Jean-Martial Cohard, Jean-Emmanuel Sicart, Martin Obligado, Catherine Coulaud, Romain Biron
+*Claudine Charrondière, Christophe Brun, Jean-Martial Cohard, Jean-Emmanuel Sicart, Martin Obligado, Catherine Coulaud, Romain Biron*  
 <ins>Boundary-Layer Meteorology</ins>, vol. 182 (1), pp. 29-54, **2022**  
 [🔍 pdf](https://hal.science/hal-03350043/file/Charrondi%C3%A8re2022.pdf) | <a href="#" onclick="showBibTeX(event, 'bib3')">🗨️ Cite (BibTeX)</a> | <a href="#" onclick="showAbstract(event, 'abs3')">📄 Abstract</a>
 
