@@ -175,12 +175,29 @@ Submitted to <ins>Bulletin of the American Meteorological Society</ins>
 <ins>Zenodo</ins>, **2019**  
 [🔍 Access to the dataset and DOI](https://doi.org/10.5281/zenodo.6546702)
 
-# Scientific communications at national and international conferences
+# Scientific communications at national and international conferences as first author
 
 ### Spectral analysis of unstable flows: understanding the low frequency spread of Kaimal scaling
 *Claudine Charrondière, Ivana Stiperski*  
 <ins>9. Österreichischer MeteorologInnentag</ins>, Innsbruck (Austria), **2023**  
 [🔍 Abstract](https://www.uibk.ac.at/congress/meteorologinnentag2023/abstracts/meteorologinnentag2023_o13_charrondiere.pdf)
+
+### Anisotropy effect on the low frequency range of unstably stratified atmospheric flow
+*Claudine Charrondière, Ivana Stiperski*  
+<ins>36th International Conference on Alpine Meteorology</ins>, St. Gallen (Switzerland), **2023**  
+[🔍 Recorded presentation ](https://iacweb.ethz.ch/events/icam2023/rec/O2.3)
+
+# Other scientific communications
+
+### Beyond Monin-Obukhov Similarity Theory and the Implications for Turbulence over Complex Terrain
+*Ivana Stiperski, Marc Calaf, Claudine Charrondière, Samuele Mosso*  
+<ins>European Meteorological Society Annual Meeting</ins>, Bratislava (Slovakia), **2023**  
+[🔍 Abstract](https://meetingorganizer.copernicus.org/EMS2023/EMS2023-5.html?pdf)
+
+### Turbulent flow in the inner layer of a katabatic jet along a steep alpine slope
+*Christophe Brun, Claudine Charrondière, Emil J Hopfinger, Jean-Martial Cohard, Jean-Emmanuel Sicart*  
+<ins>European Geosciences Union General Assembly,</ins>, Vienna (Austria), **2022**  
+[🔍 Abstract](https://meetingorganizer.copernicus.org/EGU22/EGU22-6441.html)
 
 
 
