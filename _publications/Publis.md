@@ -23,28 +23,19 @@ permalink: /publications/
 }</p>
     <button onclick="closeAbstract()">Close</button>
   </div>
-
   <script>
-    function showAbstract() {
-      document.getElementById("abstractPopup").style.display = "block";
-    }
-    function closeAbstract() {
-      document.getElementById("abstractPopup").style.display = "none";
-    }
+    function showAbstract() {document.getElementById("abstractPopup").style.display = "block";}
+    function closeAbstract() {document.getElementById("abstractPopup").style.display = "none";}
   </script>
-
   <style>
     .abstract-link {
       color: #1e90ff; /* Même bleu que le lien PDF */
       text-decoration: underline;
-      cursor: pointer;
-    }
+      cursor: pointer;    }
     .abstract-link:hover {
       text-decoration: none; /* Enlève le changement de couleur au survol */
     }
-  </style>
-
-  
+  </style> 
   | 📄 
 <a href="#" class="abstract-link" onclick="showAbstract()">Abstract</a>
 
