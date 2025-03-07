@@ -34,22 +34,22 @@ As part of the international [TEAMx project](https://www.teamx-programme.org/) (
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="width: 350px; height: 350px; margin: 10px; overflow: hidden;">
-    <img src="/images/Flyer_Tribulations_Savantes.png" alt="Les Tribulations Savantes 2019" style="width: 100%; height: 100%; object-fit: cover;" />
+    <img src="/images/HEFEXII/Grand_mat.jpg" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
   <div style="width: 350px; height: 350px; margin: 10px; overflow: hidden;">
-    <img src="/images/photo1.jpg" alt="Photo 1" style="width: 100%; height: 100%; object-fit: cover;" />
+    <img src="/images/HEFEXII/Glacier.jpg" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
   <div style="width: 350px; height: 350px; margin: 10px; overflow: hidden;">
-    <img src="/images/photo2.jpg" alt="Photo 2" style="width: 100%; height: 100%; object-fit: cover;" />
+    <img src="/images/HEFEXII/Petit_mat_moraine.HEIC" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
   <div style="width: 350px; height: 350px; margin: 10px; overflow: hidden;">
-    <img src="/images/photo3.jpg" alt="Photo 3" style="width: 100%; height: 100%; object-fit: cover;" />
+    <img src="/images/HEFEXII/LIDAR.JPG" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
   <div style="width: 350px; height: 350px; margin: 10px; overflow: hidden;">
-    <img src="/images/photo4.jpg" alt="Photo 4" style="width: 100%; height: 100%; object-fit: cover;" />
+    <img src="/images/HEFEXII/Petit_mat_neige.HEIC" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
   <div style="width: 350px; height: 350px; margin: 10px; overflow: hidden;">
-    <img src="/images/photo5.jpg" alt="Photo 5" style="width: 100%; height: 100%; object-fit: cover;" />
+    <img src="/images/HEFEXII/Ballon.JPEG" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
 </div>
 
