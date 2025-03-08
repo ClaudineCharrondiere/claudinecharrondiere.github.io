@@ -29,18 +29,18 @@ As part of the international [TEAMx project](https://www.teamx-programme.org/) (
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="width: 350px; height: 500px; margin: 10px; overflow: hidden;">
-    <img src="/images/HEFEXII/Grand_mat.jpg" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
+    <img src="/images/HEFEXII/Grand_mat_cropped.jpg" alt="Photo by A. Giorgi" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
   <div style="width: 400px; height: 500px; margin: 10px; overflow: hidden;">
-    <img src="/images/HEFEXII/Glacier.JPG" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
+    <img src="/images/HEFEXII/Glacier_cropped.jpg" alt="Photo by N. Richter" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
   <div style="width: 450px; height: 500px; margin: 10px; overflow: hidden;">
-    <img src="/images/HEFEXII/LIDAR.JPG" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
+    <img src="/images/HEFEXII/LIDAR_cropped.jpg" alt="Photo by A. Giorgi" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
   <div style="width: 350px; height: 500px; margin: 10px; overflow: hidden;">
-    <img src="/images/HEFEXII/Ballon.JPEG" alt="Photo" style="width: 100%; height: 100%; object-fit: cover;" />
+    <img src="/images/HEFEXII/Ballon_cropped.jpg" alt="Photo by A. Giorgi" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
-  </div>
+</div>
 
 
 More details to come (paper under review)  
@@ -56,10 +56,10 @@ Main achievements : ...
 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/Grand_Colon/DSC02877.JPG" alt="Meteorological mast" width="350" />
+    <img src="/images/Grand_Colon/DSC02877.JPG" alt="Meteorological mast by name5" width="350" />
   </div>
   <div style="display: inline-block;">
-    <img src="/images/Grand_Colon/DSC02897.JPG" alt="Turbulence mast" width="350" />
+    <img src="/images/Grand_Colon/DSC02897.JPG" alt="Turbulence mast by name6" width="350" />
   </div>
 </div>
 
