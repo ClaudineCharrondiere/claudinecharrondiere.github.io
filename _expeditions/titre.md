@@ -12,6 +12,13 @@ layout: default
 Objectives and plans : ...
 Add a photo
 
+Fondaiton Simons
+
+Particle image velocimetry, dans une cuve de 9 m3 d’eau sal´ee stratifi´ee, avec pour objectif d’atteindre une r´egime de
+turbulence d’ondes en r´egime faiblement non-lin´eaire
+
+
+
 # 🏔️ Hintereisferner Experiment II (HEFEX II) 
 
 📍*Hintereisferner glacier, Austria*  
