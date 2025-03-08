@@ -2,7 +2,7 @@
 title: ""
 collection: expeditions
 permalink: /expeditions/
-layout: default
+layout: archive
 ---
 
 # 🌊 Wave turbulence 
