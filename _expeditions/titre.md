@@ -28,17 +28,17 @@ turbulence d’ondes en r´egime faiblement non-lin´eaire
 As part of the international [TEAMx project](https://www.teamx-programme.org/) (Multi-scale transport and exchange processes in the atmosphere over mountains - programme and experiment), we deployed 19 meteorological stations (11 with high-frequency measurements and 21 sonic anemometers) along the glacier, as well as a thermal camera, radiosondes, LiDAR, drones, ...
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="width: 350px; height: 500px; margin: 10px; overflow: hidden;">
-    <img src="/images/HEFEXII/Grand_mat_cropped.jpg" alt="Photo by A. Giorgi" style="width: 100%; height: 100%; object-fit: cover;" />
+  <div style="height: 500px; margin: 10px; overflow: hidden;">
+    <img src="/images/HEFEXII/Grand_mat_cropped.jpg" alt="Photo by A. Giorgi" style="height: 100%; object-fit: cover;" />
   </div>
-  <div style="width: 400px; height: 500px; margin: 10px; overflow: hidden;">
-    <img src="/images/HEFEXII/Glacier_cropped.jpg" alt="Photo by N. Richter" style="width: 100%; height: 100%; object-fit: cover;" />
+  <div style="height: 500px; margin: 10px; overflow: hidden;">
+    <img src="/images/HEFEXII/Glacier_cropped.jpg" alt="Photo by N. Richter" style="height: 100%; object-fit: cover;" />
   </div>
-  <div style="width: 450px; height: 500px; margin: 10px; overflow: hidden;">
-    <img src="/images/HEFEXII/LIDAR_cropped.jpg" alt="Photo by A. Giorgi" style="width: 100%; height: 100%; object-fit: cover;" />
+  <div style="height: 500px; margin: 10px; overflow: hidden;">
+    <img src="/images/HEFEXII/LIDAR_cropped.jpg" alt="Photo by A. Giorgi" style="height: 100%; object-fit: cover;" />
   </div>
-  <div style="width: 350px; height: 500px; margin: 10px; overflow: hidden;">
-    <img src="/images/HEFEXII/Ballon_cropped.jpg" alt="Photo by A. Giorgi" style="width: 100%; height: 100%; object-fit: cover;" />
+  <div style="height: 500px; margin: 10px; overflow: hidden;">
+    <img src="/images/HEFEXII/Ballon_cropped.jpg" alt="Photo by A. Giorgi" style="height: 100%; object-fit: cover;" />
   </div>
 </div>
 
@@ -55,11 +55,11 @@ Deployed sensors : 11 anemometers, 6 thermocouples, a 3D pitot 3D for near-surfa
 Main achievements : ...   
 
 <div style="text-align: center;">
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/Grand_Colon/DSC02877.JPG" alt="Meteorological mast by name5" width="350" />
+  <div style="display: inline-block; margin-right: 10px; height: 500px; overflow: hidden;">
+    <img src="/images/Grand_Colon/DSC02877.JPG" alt="Meteorological mast by name5" style="height: 100%; object-fit: cover;" />
   </div>
-  <div style="display: inline-block;">
-    <img src="/images/Grand_Colon/DSC02897.JPG" alt="Turbulence mast by name6" width="350" />
+  <div style="display: inline-block; height: 500px; overflow: hidden;">
+    <img src="/images/Grand_Colon/DSC02897.JPG" alt="Turbulence mast by name6" style="height: 100%; object-fit: cover;" />
   </div>
 </div>
 
